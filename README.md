@@ -31,3 +31,5 @@ To run this project locally:
 1. Clone this repository:
    ```bash
    git clone https://github.com/dipin736/Convertor.git
+
+    **Project URL** has been updated to `https://roadmap.sh/projects/temperature-converter` 
